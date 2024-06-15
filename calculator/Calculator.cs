@@ -54,3 +54,4 @@ namespace calculator
             history.Add(new Operation(num1, type, num2, result));
         }
     }
+}
